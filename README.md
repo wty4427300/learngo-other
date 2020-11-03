@@ -1,4 +1,4 @@
-# learngo-1
+# learngo-other
 
 关于三方库的使用和云原生的一些东西
 
